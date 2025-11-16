@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Bryan
 
-<!--
-**BryanBenattou/bryanbenattou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the Co-founder of **B2 Creative** — a brand design studio in Carlsbad focused on building lean, profitable businesses with smart tools.
 
-Here are some ideas to get you started:
+## 🚀 What I’m Working On
+- Scale an e-bike brand doing multiple six figures per month  
+- Building a SaaS for tradespeople
+- Learning Full-Stack development through Free Code Camp's new curriculum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 What I Do
+- Brand Strategy
+- Web Development
+- Content Production
+- Paid Media
+- & more
+
+## 🛠️ Tech I Use
+HTML/CSS · JavaScript · Shopify Liquid
+Shopify · Figma · Git · Notion
+
+## 💬 About Me
+I'm passionate about surfing, cooking, and building things. Always learning and improving my workflow.
+
+## 📫 Connect
+**Website:** https://b2creative.studio  
+**Email:** bryan@b2creative.studio
