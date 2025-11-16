@@ -27,7 +27,3 @@ I love surfing, cooking, and building things. I'm always learning and improving.
 ## 📫 Connect
 **Website:** https://b2creative.studio  
 **Email:** bryan@b2creative.studio
-
-## 📈 GitHub Stats
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanbenattou&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbenattou&layout=compact&theme=default)
