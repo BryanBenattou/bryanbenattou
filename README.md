@@ -22,7 +22,7 @@ Co-founder of B2 Creative, a brand design studio in Carlsbad focused on building
 And the supporting tools that keep my workflow efficient.
 
 ## 💬 About Me
-I love surfing, cooking, and building things. I'm always learning and improving.
+I love surfing, cooking, and building things. Documenting the process here and on my website.
 
 ## 📫 Connect
 **Website:** https://b2creative.studio  
