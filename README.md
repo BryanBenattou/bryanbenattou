@@ -4,7 +4,8 @@ Co-founder of B2 Creative, a brand design studio in Carlsbad focused on building
 
 ## 🚀 What I’m Working On
 - Scaling an e-bike brand doing multiple six figures per month  
-- Building a SaaS product for tradespeople  
+- Building a SaaS product for tradespeople
+- Writing a brand audit application
 - Learning full-stack development  
 
 ## 📈 What I Do
@@ -13,11 +14,11 @@ Co-founder of B2 Creative, a brand design studio in Carlsbad focused on building
 - Content production  
 
 ## 🛠️ Tech I Use
-HTML/CSS · JavaScript · Shopify Liquid  
-Figma · Git · Notion 
+HTML/CSS · JavaScript · Python  
+And the supporting tools that keep my workflow efficient.
 
 ## 💬 About Me
-I love surfing, cooking, and building things. Always learning and improving.
+I love surfing, cooking, and building things. I'm always learning and improving.
 
 ## 📫 Connect
 **Website:** https://b2creative.studio  
