@@ -3,7 +3,7 @@
 Co-founder of B2 Creative, a brand design studio in Carlsbad focused on building lean, profitable businesses with smart tools.
 
 ## 🚀 What I’m Working On
-- Scaling an e-bike brand doing multiple six figures per month  
+- Scaling an e-bike brand  
 - Building a SaaS product for tradespeople
 - Writing a brand audit application
 - Learning full-stack development  
