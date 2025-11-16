@@ -8,7 +8,7 @@ Co-founder of B2 Creative, a brand design studio in Carlsbad focused on building
 - Writing a brand audit application
 - Learning full-stack development  
 
-## 📈 What I Do
+## 📅 What I Do
 - Brand strategy  
 - Web development  
 - Content production  
@@ -27,3 +27,7 @@ I love surfing, cooking, and building things. I'm always learning and improving.
 ## 📫 Connect
 **Website:** https://b2creative.studio  
 **Email:** bryan@b2creative.studio
+
+## 📈 GitHub Stats
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryanbenattou&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbenattou&layout=compact&theme=default)
